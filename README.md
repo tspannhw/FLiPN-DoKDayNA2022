@@ -1,6 +1,9 @@
 # FLiPN-DoKDayNA2022
 Kubernetes Things for Data on Kubernetes (DoK) Day North America - Detroit - October 2022
 
+#### Slides
+
+* https://www.slideshare.net/bunkertor/dokdayna2022-architecting-your-first-event-driven-serverless-streaming-applications-on-k8
 
 #### Documentation
 
